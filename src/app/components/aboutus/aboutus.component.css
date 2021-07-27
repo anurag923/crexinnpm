@@ -1,0 +1,38 @@
+.bg-wall
+{
+    background-image:url(/assets/images/bannerImgOne.png);
+    height:100%;
+    width:100%;
+    object-fit:cover;
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding:2rem 5rem;
+}
+.patchcls
+{
+    background-color:#000;
+    color:#fff;
+    padding:15px;
+    text-align:center;
+    max-width:100%;
+    border-radius:5px;
+}
+.patchcls h2
+{
+    font-size:2rem;
+    margin-bottom:0rem;
+}
+.contentcls p
+{
+    padding:2rem 0 0 0;
+    font-weight:600;
+}
+.green-cls
+{
+    background-color:#b5dada;
+    padding:2rem;
+}
+.tealone
+{
+  color:#339999;
+}
